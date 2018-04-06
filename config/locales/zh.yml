@@ -1,0 +1,49 @@
+#encoding :UTF-8
+zh:
+  txt_save_template : 保存模板
+  txt_back : 返回
+  txt_issue_template_note_add : Issue Templates Notes / 新建
+  txt_select_a_template: Select a template note
+  txt_issue_templates_notes_list : Issue Templates Notes   
+  txt_new_template_note: New Template de Notas
+  txt_permissions: 访问权限
+  txt_user: 用户
+  txt_usage_plugin : 允许访问
+  txt_send : Send
+  lbl_tracker : 类型
+  lbl_template_name: Template name
+  lbl_tracker_id : 类型
+  lbl_project_id : 项目
+  lbl_author : 作者
+  lbl_description : 描述
+  lbl_enabled : 启用
+  lbl_ordenation : Ordenation
+  lbl_options : 选项
+  lbl_created_on : 创建于
+  lbl_updated_on : 更新于
+  lbl_edit_template_note: 编辑
+  lbl_delete_template_note: 删除
+  lbl_author: 作者
+  lbl_tracker_type: 跟踪类型
+  lbl_clear_note_description : 清空描述信息
+  lbl_select_a_template: Select a template note
+  lbl_select: 选择
+  msg_confirm_deletion: Do you delete this template note?
+  msg_confirm_fields : Insert correctly this field
+  msg_notice_sucess_create:  Template note created successful!
+  msg_notice_sucess_updated: Template note updated successful!
+  msg_notice_sucess_deleted: Template note deleted successful!
+  msg_error: An error ocurred in template exclusion.
+  msg_template_exists: This template exists.
+  notes : Notes
+  issue_templates_notes: Template notes
+  notes_templates: Notes
+  list_notes_templates:  List templates notes
+  add_note_templates: Add template note
+  template_name: Template name
+  tracker : 类型
+  template_notes: Template notes
+  description: 描述
+  back: 返回
+  field_user_auth: ""
+  lbl_list_and_add: List and Add
